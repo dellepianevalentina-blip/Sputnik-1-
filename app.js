@@ -176,7 +176,7 @@ const modalContentData = {
         subtitle: 'El Diseñador Jefe',
         html: `
             <div class="modal-img-container">
-                <img src="assets/korolev.png" class="modal-img" alt="Serguéi Koroliov">
+                <img src="https://starchild.gsfc.nasa.gov/docs/StarChild_Spanish/Images/StarChild/scientists/gkorel.jpg" class="modal-img" alt="Serguéi Koroliov">
                 <div class="modal-img-caption">Ilustración de Serguéi Koroliov, pionero de la ingeniería aeroespacial soviética.</div>
             </div>
             
