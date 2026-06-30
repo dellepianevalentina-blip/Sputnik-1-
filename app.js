@@ -149,21 +149,23 @@ const modalContentData = {
         `
 
     },
-    'modal-korolev': {
-        icon: '👨‍🚀',
-        title: 'Serguéi Koroliov',
-        subtitle: 'El Diseñador Jefe',
-        html: `
-            <div class="modal-img-container">
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sergei_Korolev.jpg" class="modal-img" alt="Serguéi Koroliov">
-<div class="modal-img-caption">Fotografía de Serguéi Koroliov, ingeniero jefe del programa espacial soviético y principal responsable del desarrollo del Sputnik.</div>
-                <div class="modal-img-caption">Ilustración de Serguéi Koroliov, pionero de la ingeniería aeroespacial soviética.</div>
-            </div>
-            
-            <p>El proyecto del Sputnik 1 fue desarrollado por un talentoso equipo de científicos e ingenieros soviéticos dirigidos en secreto por el célebre diseñador de cohetes <strong>Serguéi Koroliov</strong>.</p>
-            
-            <p>Bajo su liderazgo intelectual, la Unión Soviética no solo construyó el satélite sino que diseñó y probó con éxito el cohete <strong>R-7 Semyorka</strong>, convirtiéndose en el pilar tecnológico que colocó a la URSS a la cabeza de la Carrera Espacial en sus etapas iniciales.</p>
-        `
+   'modal-korolev': {
+    icon: '👨‍🚀',
+    title: 'Serguéi Koroliov',
+    subtitle: 'El Diseñador Jefe',
+    html: `
+        <div class="modal-img-container">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sergei_Korolev.jpg" class="modal-img" alt="Serguéi Koroliov">
+            <div class="modal-img-caption">Fotografía de Serguéi Koroliov, ingeniero jefe del programa espacial soviético y principal responsable del desarrollo del Sputnik.</div>
+        </div>
+
+        <p>El proyecto del <strong>Sputnik 1</strong> fue desarrollado por un equipo de científicos e ingenieros soviéticos liderados por <strong>Serguéi Koroliov</strong>, conocido como el "Diseñador Jefe".</p>
+
+        <p>Bajo su dirección se diseñó el cohete <strong>R-7 Semyorka</strong>, que permitió poner en órbita el primer satélite artificial de la historia y dio inicio a la Carrera Espacial.</p>
+
+        <p>Koroliov también dirigió otros grandes logros del programa espacial soviético, como el lanzamiento del Sputnik 2 y la misión Vostok 1, que llevó a Yuri Gagarin a convertirse en el primer ser humano en viajar al espacio.</p>
+    `
+},
     },
     'modal-impact': {
         icon: '📈',
