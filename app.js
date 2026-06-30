@@ -177,7 +177,8 @@ const modalContentData = {
         subtitle: 'El Diseñador Jefe',
         html: `
             <div class="modal-img-container">
-                <img src="https://starchild.gsfc.nasa.gov/docs/StarChild_Spanish/Images/StarChild/scientists/gkorel.jpg" class="modal-img" alt="Serguéi Koroliov">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Sergei_Korolev.jpg" class="modal-img" alt="Serguéi Koroliov">
+<div class="modal-img-caption">Fotografía de Serguéi Koroliov, ingeniero jefe del programa espacial soviético y principal responsable del desarrollo del Sputnik.</div>
                 <div class="modal-img-caption">Ilustración de Serguéi Koroliov, pionero de la ingeniería aeroespacial soviética.</div>
             </div>
             
