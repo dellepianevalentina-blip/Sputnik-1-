@@ -148,8 +148,7 @@ const modalContentData = {
             </table>
         `
 
-    },
-   'modal-korolev': {
+ 'modal-korolev': {
     icon: '👨‍🚀',
     title: 'Serguéi Koroliov',
     subtitle: 'El Diseñador Jefe',
