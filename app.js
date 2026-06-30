@@ -147,29 +147,7 @@ const modalContentData = {
                 </tbody>
             </table>
         `
-    },
-   'modal-sputnik2': {
-    icon: '🐕',
-    title: 'Sputnik 2 & Laika',
-    subtitle: 'El Primer Ser Vivo en Órbita',
-    html: `
-        <div class="modal-img-container">
-            <img src="https://upload.wikimedia.org/wikipedia/en/5/56/Laika.jpg" class="modal-img" alt="Laika">
-            <div class="modal-img-caption">Laika, la perra soviética que se convirtió en el primer ser vivo en orbitar la Tierra a bordo del Sputnik 2 (1957).</div>
-        </div>
 
-        <p>La Unión Soviética lanzó el <strong>Sputnik 2 el 3 de noviembre de 1957</strong>, menos de un mes después del Sputnik 1.</p>
-
-        <p>El Sputnik 2 transportaba a <strong>Laika</strong>, el primer ser vivo en orbitar la Tierra.</p>
-
-        <p>Especificaciones adicionales de la misión:</p>
-        <ul>
-            <li><strong>Peso de la nave:</strong> 1.120 libras (unos 508 kg).</li>
-            <li><strong>Duración:</strong> Permaneció en órbita durante casi 200 días.</li>
-            <li><strong>Hito biológico:</strong> Demostró que un animal superior podía sobrevivir en condiciones de microgravedad.</li>
-        </ul>
-    `
-},
     },
     'modal-korolev': {
         icon: '👨‍🚀',
